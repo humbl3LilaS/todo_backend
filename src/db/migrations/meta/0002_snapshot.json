@@ -1,0 +1,33 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "id": "5eaaeadd-25ec-450b-80c5-69199f440150",
+  "prevId": "f2c11884-c531-4a7c-bea3-79fb7ae8c542",
+  "tables": {
+    "table": {
+      "name": "table",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "mediumint",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    }
+  },
+  "_meta": {
+    "schemas": {},
+    "tables": {},
+    "columns": {}
+  },
+  "internal": {
+    "tables": {},
+    "indexes": {}
+  }
+}
